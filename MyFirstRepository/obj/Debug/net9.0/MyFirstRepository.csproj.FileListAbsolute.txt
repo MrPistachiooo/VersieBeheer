@@ -1,0 +1,14 @@
+C:\VersieBeheer\MyFirstRepository\bin\Debug\net9.0\MyFirstRepository.exe
+C:\VersieBeheer\MyFirstRepository\bin\Debug\net9.0\MyFirstRepository.deps.json
+C:\VersieBeheer\MyFirstRepository\bin\Debug\net9.0\MyFirstRepository.runtimeconfig.json
+C:\VersieBeheer\MyFirstRepository\bin\Debug\net9.0\MyFirstRepository.dll
+C:\VersieBeheer\MyFirstRepository\bin\Debug\net9.0\MyFirstRepository.pdb
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.AssemblyInfoInputs.cache
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.AssemblyInfo.cs
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.csproj.CoreCompileInputs.cache
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.dll
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\refint\MyFirstRepository.dll
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.pdb
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.genruntimeconfig.cache
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\ref\MyFirstRepository.dll
