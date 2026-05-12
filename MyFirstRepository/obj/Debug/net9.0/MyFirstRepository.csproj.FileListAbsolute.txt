@@ -12,3 +12,4 @@ C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\refint\MyFirstRepository.dll
 C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.pdb
 C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.genruntimeconfig.cache
 C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\ref\MyFirstRepository.dll
+C:\VersieBeheer\MyFirstRepository\obj\Debug\net9.0\MyFirstRepository.sourcelink.json
